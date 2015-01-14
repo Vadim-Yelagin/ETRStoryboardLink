@@ -1,0 +1,14 @@
+PODS:
+  - ETRStoryboardLink (0.1.0)
+
+DEPENDENCIES:
+  - ETRStoryboardLink (from `../`)
+
+EXTERNAL SOURCES:
+  ETRStoryboardLink:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ETRStoryboardLink: ea1be162e916395ea75704effa4e626189bd7e6e
+
+COCOAPODS: 0.35.0
