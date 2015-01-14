@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'ETRStoryboardLink', :exclusive => true do
+  pod "ETRStoryboardLink", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "ETRStoryboardLink", :path => "../"
+
+  
+end
