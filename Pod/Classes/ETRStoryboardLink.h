@@ -9,7 +9,7 @@
 
 @interface ETRStoryboardLink : UIViewController
 
-@property (nonatomic, copy) NSString *storyboardName;
-@property (nonatomic, copy) NSString *sceneIdentifier;
+@property (nonatomic, copy) IBInspectable NSString *storyboardName;
+@property (nonatomic, copy) IBInspectable NSString *sceneIdentifier;
 
 @end
