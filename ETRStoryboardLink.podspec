@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "ETRStoryboardLink"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "ETRStoryboardLink provides a simple way to create segues between scenes in different storyboards."
   s.description      = <<-DESC
                        ETRStoryboardLink
