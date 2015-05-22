@@ -11,7 +11,6 @@
 
 - (void)perform
 {
-    [self.destinationViewController setModalPresentationStyle:self.presentationStyle];
     [self.sourceViewController presentViewController:self.destinationViewController
                                             animated:self.animated
                                           completion:self.completion];

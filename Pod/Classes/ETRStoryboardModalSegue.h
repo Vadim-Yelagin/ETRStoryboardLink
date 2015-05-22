@@ -9,7 +9,6 @@
 
 @interface ETRStoryboardModalSegue : ETRStoryboardSegue
 
-@property (nonatomic) UIModalPresentationStyle presentationStyle;
 @property (nonatomic, copy) void (^completion)(void);
 
 @end
